@@ -5,5 +5,10 @@
   "repository": "https://github.com/gabrielcarneiro97/yarn-eslintme-plugin",
   "author": "Gabriel Carneiro <gabriel.carneiro97@live.com>",
   "license": "MIT",
-  "private": false
+  "scripts": {
+    "att": "yarn plugin import ./plugin-eslintme.js&&yarn install"
+  },
+  "dependencies": {
+    "clipanion": "^2.1.6"
+  }
 }
