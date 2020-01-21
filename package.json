@@ -1,0 +1,9 @@
+{
+  "name": "yarn-eslintme-plugin",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/gabrielcarneiro97/yarn-eslintme-plugin",
+  "author": "Gabriel Carneiro <gabriel.carneiro97@live.com>",
+  "license": "MIT",
+  "private": false
+}
